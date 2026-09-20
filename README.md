@@ -40,34 +40,6 @@
 
 Итоговая матрица признаков для моделирования содержит 12 признаков.
 
-Структура проекта:
-
-```text
-music-genre-classification/
-│
-├── data/
-│   └── README.md
-│
-├── notebooks/
-│   ├── 01_EDA_Cleaning.ipynb
-│   └── ...
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_loader.py
-│   └── recommender.py
-│
-├── models/
-│
-├── images/
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
-Основная часть исследования представлена в Jupyter Notebook: от разведочного анализа и очистки данных до обучения моделей и анализа ошибок.
-
 Этапы работы:
 
 1. Разведочный анализ данных
